@@ -1,6 +1,4 @@
-# Sayolyna
-My GitHub profile showcasing my projects, skills, and learning journey in tech 🚀
-# Hi, I'm Sayolyna 👋
+
 
 <!-- HEADER -->
 
